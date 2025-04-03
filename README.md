@@ -14,9 +14,9 @@ I am Lilia.
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ![lirisia's Stats](https://github-readme-stats.vercel.app/api?username=lirisia&theme=dark&show_icons=true&hide_border=false&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lirisia&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lirisia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lirisia&theme=dark)](https://git.io/streak-stats)
 
 **No commissions.**
 
